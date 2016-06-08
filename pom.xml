@@ -14,13 +14,6 @@
   <name>Pentaho Data Integration SDK Plugin Assembly</name>
   <packaging>pom</packaging>
 
-  <repositories>
-    <repository>
-      <id>Pentaho Artifactory</id>
-      <url>http://repo.pentaho.org/artifactory/repo</url>
-    </repository>
-  </repositories>
-
   <modules>
     <module>kettle-sdk-database-plugin</module>
     <module>kettle-sdk-embedding-samples</module>
