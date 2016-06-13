@@ -36,5 +36,6 @@
   	<module>kettle-sdk-partitioner-plugin</module>
   	<module>kettle-sdk-step-plugin</module>
   	<module>kettle-sdk-plugin-assembly</module>
+  	<module>kettle-sdk-importrule-plugin</module>
   </modules>
 </project>
